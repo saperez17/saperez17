@@ -22,7 +22,7 @@ of the IT industry. I'm a lifelong learner, enthusiast about quality software de
 I'm aiming at combining my multi-cultural background with solid software engineering foundations to build user-friendly, disruptipve and scalable software 
 products that can enhance people's lifes.
 
-📚 TECH STACK
+##📚 TECH STACK
 
 ➤Programming Languages:
 --- Python, JavaScript, C#
@@ -40,11 +40,13 @@ products that can enhance people's lifes.
 --- Heroku, Digital Ocean, Netlify, PPT, Power BI, Trello, LucidChart, WordPress, Figma, Canva
 
 
-⚡HIGHLIGHTS
+##⚡HIGHLIGHTS
+
 Problem-solving√  Critical-thinking√  Research√  Technical-writing√  Bilingual√  Communication skills√ 
 Teamwork√  Self-starter√  Organized√  Goal oriented√ 
 
-📖CONTACT ME
+##📖CONTACT ME
+
 See my code on Github ->
 #100DaysofCode -> https://twitter.com/santiag98152748
 #OpenToWork -> reach me out at santiagobn1@gmail.com
