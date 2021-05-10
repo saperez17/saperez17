@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm an aspiring software developer from Colombia looking to put my critical-thinking, problem-solving and creative skills to the service
 of the IT industry. I'm a lifelong learner, enthusiast about quality software development and knowledge sharing.
 
-🚀<h2>MY GOAL</h2>
+<h2>🚀 MY GOAL</h2>
 I'm aiming at combining my multi-cultural background with solid software engineering foundations to build user-friendly, disruptipve and scalable software 
 products that can enhance people's lifes.
 
