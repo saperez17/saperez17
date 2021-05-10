@@ -42,7 +42,7 @@ products that can enhance people's lifes.
 
 <h3>⚡HIGHLIGHTS</h3>
 Problem-solving√  Critical-thinking√  Research√  Technical-writing√  Bilingual√  Communication skills√ 
-Teamwork√  Self-starter√  Organized√  Goal oriented√ 
+Teamwork√  Self-starter√  Organized√  Goal oriented√ Partnership√ Creativity√ 
 
 <h3>📖CONTACT ME</h3>
 See my code on Github ->
