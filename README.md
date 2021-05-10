@@ -45,6 +45,5 @@ Problem-solving√  Critical-thinking√  Research√  Technical-writing√  Bil
 Teamwork√  Self-starter√  Organized√  Goal oriented√ Partnership√ Creativity√ 
 
 <h3>📖CONTACT ME</h3>
-See my code on Github ->
-#100DaysofCode -> https://twitter.com/santiag98152748
+See my code on Github -> #100DaysofCode -> https://twitter.com/santiag98152748 <br>
 #OpenToWork -> reach me out at santiagobn1@gmail.com
