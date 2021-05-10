@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/him/his
 - ⚡ Fun fact: ... For some reason I like trying out dangerous things.
 -->
-
-WHO I AM
+👦🏼WHO I AM
 I'm an aspiring software developer from Colombia looking to put my critical-thinking, problem-solving and creativity skills to the service
 of the IT industry. I'm a lifelong learner, enthusiast about quality software development and knowledge sharing.
 
-MY GOAL
+🚀MY GOAL
 I'm aiming at combining my multi-cultural background with solid software engineering foundations to build user-friendly, disruptipve and scalable software 
 products that can enhance people's lifes.
 
@@ -41,11 +40,11 @@ products that can enhance people's lifes.
 --- Heroku, Digital Ocean, Netlify, PPT, Power BI, Trello, LucidChart, WordPress, Figma, Canva
 
 
-HIGHLIGHTS
+⚡HIGHLIGHTS
 Problem-solving√  Critical-thinking√  Research√  Technical-writing√  Bilingual√  Communication skills√ 
 Teamwork√  Self-starter√  Organized√  Goal oriented√ 
 
-CONTACT ME
+📖CONTACT ME
 See my code on Github ->
 #100DaysofCode -> https://twitter.com/santiag98152748
 #OpenToWork -> reach me out at santiagobn1@gmail.com
