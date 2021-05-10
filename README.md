@@ -44,6 +44,9 @@ products that can enhance people's lifes.
 Problem-solving√  Critical-thinking√  Research√  Technical-writing√  Bilingual√  Communication skills√ 
 Teamwork√  Self-starter√  Organized√  Goal oriented√ Partnership√ Creativity√ 
 
+
 <h3>📖CONTACT ME</h3>
-See my code on Github -> #100DaysofCode -> https://twitter.com/santiag98152748 <br>
+#See my code on Github -> https://github.com/saperez17/<br>
+#Portfolio site -> https://sadev-portfolio.herokuapp.com/ <br>
+#100DaysofCode -> https://twitter.com/santiag98152748 <br>
 #OpenToWork -> reach me out at santiagobn1@gmail.com
