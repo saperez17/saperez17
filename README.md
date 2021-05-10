@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... For some reason I like trying out dangerous things.
 -->
 <h2>👦WHO I AM</h2>
-I'm an aspiring software developer from Colombia looking to put my critical-thinking, problem-solving and creativity skills to the service
+I'm an aspiring software developer from Colombia looking to put my critical-thinking, problem-solving and creative skills to the service
 of the IT industry. I'm a lifelong learner, enthusiast about quality software development and knowledge sharing.
 
 🚀<h2>MY GOAL</h2>
