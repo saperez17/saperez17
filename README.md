@@ -24,8 +24,8 @@ products that can enhance people's lifes.
 
 <h3>📚 TECH STACK</h3>
 
-➤Programming Languages:
---- Python, JavaScript, C#
+➤Programming Languages: <br> 
+--- Python, JavaScript, C# <br>
 ➤Web Development:
 --- Django, DRF, Flask, Node.js, Express.js, React.js, Vue.js, , RegEx
 ➤Front-End:
