@@ -26,18 +26,18 @@ products that can enhance people's lifes.
 
 ➤Programming Languages: <br> 
 --- Python, JavaScript, C# <br>
-➤Web Development:
---- Django, DRF, Flask, Node.js, Express.js, React.js, Vue.js, , RegEx
-➤Front-End:
---- HTML, CSS, DOM, Flexbox, Bootstrap, Bulma, jQuery, AJAX, JSON, Axios
-➤Server-Side:
---- Command-Line, REST APIs, CRUD, Authentication
-➤Database:
---- SQL, NoSQL, MongoDB, SQLAlchemy, PostgreSQL
-➤Development Tool:
---- Git/GitHub, VS Code, Chrome Dev Tool, TDD, Postman, Azure Data Studio
-➤Software Platform:
---- Heroku, Digital Ocean, Netlify, PPT, Power BI, Trello, LucidChart, WordPress, Figma, Canva
+➤Web Development:<br>
+--- Django, DRF, Flask, Node.js, Express.js, React.js, Vue.js, , RegEx <br>
+➤Front-End:<br>
+--- HTML, CSS, DOM, Flexbox, Bootstrap, Bulma, jQuery, AJAX, JSON, Axios<br>
+➤Server-Side:<br>
+--- Command-Line, REST APIs, CRUD, Authentication <br>
+➤Database: <br>
+--- SQL, NoSQL, MongoDB, SQLAlchemy, PostgreSQL <br>
+➤Development Tool: <br>
+--- Git/GitHub, VS Code, Chrome Dev Tool, TDD, Postman, Azure Data Studio <br>
+➤Software Platform: <br>
+--- Heroku, Digital Ocean, Netlify, PPT, Power BI, Trello, LucidChart, WordPress, Figma, Canva <br>
 
 
 <h3>⚡HIGHLIGHTS</h3>
